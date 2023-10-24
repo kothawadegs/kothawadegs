@@ -2,17 +2,17 @@
 Gajanan S. Kothawade
 </h1>
 <h2 align="center">
-PhD Candidate👨‍🔬🎓  @ Washinton State University
+PhD Candidate🎓  @ Washinton State University
 
 </h2>
 <h3 align="center">
-| Remote Sensing & GIS | Plant Disease Biomarkers | Field Asymmetric Ion Mobility Spectrometry (FAIMS)| Gas Chromatography-Mass Spectrometry (GC-MS)|
+🌱 Remote Sensing & GIS 🌱 Plant Disease Biomarkers 🌱 Field Asymmetric Ion Mobility Spectrometry (FAIMS) 🌱 Gas Chromatography-Mass Spectrometry (GC-MS) 
 </h3>
 
 ---
 
 #### I'm a PhD candidate at [Department of Biological Systems Engineering](https://bsyse.wsu.edu/), [Washington State University](https://wsu.edu/). 
-#### My research is on early disease detection in tree fruits using destructive, partially destructive, and non-destructive volatile headspace sampling methods.
+#### My research is on early disease detection in tree fruit crops 🌱 using destructive, partially destructive, and non-destructive volatile headspace sampling methods.
 
 #### Feel free to reach out: 
 
