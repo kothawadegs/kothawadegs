@@ -2,14 +2,17 @@
 Gajanan S. Kothawade
 </h1>
 <h2 align="center">
-PhD Candidate👨‍🔬🎓  @ [Washinton State University](https://bsyse.wsu.edu/)  [QGIS](https://qgis.org/en/site/) 
+PhD Candidate👨‍🔬🎓  @ Washinton State University
 
 </h2>
 <h3 align="center">
 | Remote Sensing & GIS | Plant Disease Biomarkers | Field Asymmetric Ion Mobility Spectrometry (FAIMS)| Gas Chromatography-Mass Spectrometry (GC-MS)|
 </h3>
 
+---
 
+#### I'm a PhD candidate at [Department of Biological Systems Engineering]([https://geog.hkbu.edu.hk/](https://bsyse.wsu.edu/)) at the [Washington State University](https://wsu.edu/). 
+#### My research interest includes: Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, to aid disaster management, and to study floods.
 
 - 👋 Hi, I’m @kothawadegs
 - 👀 I’m interested in writing/developing simple codes to contribute open source
