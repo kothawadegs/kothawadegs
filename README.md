@@ -11,7 +11,7 @@ PhD Candidate👨‍🔬🎓  @ Washinton State University
 
 ---
 
-#### I'm a PhD candidate at [Department of Biological Systems Engineering]([https://geog.hkbu.edu.hk/](https://bsyse.wsu.edu/)) at the [Washington State University](https://wsu.edu/). 
+#### I'm a PhD candidate at [Department of Biological Systems Engineering](https://bsyse.wsu.edu/), [Washington State University](https://wsu.edu/). 
 #### My research interest includes: Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, to aid disaster management, and to study floods.
 
 - 👋 Hi, I’m @kothawadegs
