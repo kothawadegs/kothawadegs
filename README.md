@@ -1,3 +1,15 @@
+<h1 align="center">
+Gajanan S. Kothawade
+</h1>
+<h2 align="center">
+PhD Candidate👨‍🔬🎓  @ Washinton State University 
+</h2>
+<h3 align="center">
+| Remote Sensing & GIS | Plant Disease Biomarkers| Field Asymmetric Ion Mobility Spectrometry (FAIMS)| Gas Chromatography-Mass Spectrometry (GC-MS) 
+</h3>
+
+
+
 - 👋 Hi, I’m @kothawadegs
 - 👀 I’m interested in writing/developing simple codes to contribute open source
 - 🌱 Currently learning Biological Systems Engineering
