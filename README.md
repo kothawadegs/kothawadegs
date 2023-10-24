@@ -11,8 +11,10 @@ PhD Candidate👨‍🔬🎓  @ Washinton State University
 
 ---
 
-#### I'm a PhD candidate at [Department of](https://bsyse.wsu.edu/), [Washington State University](https://wsu.edu/). 
-#### My research interest includes: Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change, to aid disaster management, and to study floods.
+#### I'm a PhD candidate at [Department of Biological Systems Engineering](https://bsyse.wsu.edu/), [Washington State University](https://wsu.edu/). 
+#### My research is on early disease detection in tree fruits using destructive, partially destructive, and non-destructive volatile headspace sampling methods.
+
+####
 
 - 👋 Hi, I’m @kothawadegs
 - 👀 I’m interested in writing/developing simple codes to contribute open source
