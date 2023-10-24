@@ -2,7 +2,8 @@
 Gajanan S. Kothawade
 </h1>
 <h2 align="center">
-PhD Candidate👨‍🔬🎓  @ [Washinton State University](https://bsyse.wsu.edu/) 
+PhD Candidate👨‍🔬🎓  @ [Washinton State University](https://bsyse.wsu.edu/)  [QGIS](https://qgis.org/en/site/) 
+
 </h2>
 <h3 align="center">
 | Remote Sensing & GIS | Plant Disease Biomarkers | Field Asymmetric Ion Mobility Spectrometry (FAIMS)| Gas Chromatography-Mass Spectrometry (GC-MS)|
