@@ -2,10 +2,10 @@
 Gajanan S. Kothawade
 </h1>
 <h2 align="center">
-PhD Candidate👨‍🔬🎓  @ Washinton State University 
+PhD Candidate👨‍🔬🎓  @ Washinton State University <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50" title="Jupyter Notebooks" />&nbsp;
 </h2>
 <h3 align="center">
-| Remote Sensing & GIS | Plant Disease Biomarkers| Field Asymmetric Ion Mobility Spectrometry (FAIMS)| Gas Chromatography-Mass Spectrometry (GC-MS) 
+| Remote Sensing & GIS | Plant Disease Biomarkers | Field Asymmetric Ion Mobility Spectrometry (FAIMS)| Gas Chromatography-Mass Spectrometry (GC-MS)|
 </h3>
 
 
