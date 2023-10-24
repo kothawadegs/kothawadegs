@@ -14,7 +14,25 @@ PhD Candidate👨‍🔬🎓  @ Washinton State University
 #### I'm a PhD candidate at [Department of Biological Systems Engineering](https://bsyse.wsu.edu/), [Washington State University](https://wsu.edu/). 
 #### My research is on early disease detection in tree fruits using destructive, partially destructive, and non-destructive volatile headspace sampling methods.
 
-####
+#### Feel free to reach out: 
+
+<h3 align="center">
+
+
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="50" title="Mail" />][Mail]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="50" title="Google Scholar" />][Google Scholar]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" />][LinkedIn]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="50" title="ResearchGate" />][ResearchGate]&nbsp;
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="50" title="ORCID" />][orcid]&nbsp;
+
+[Google Scholar]: https://scholar.google.com/citations?user=GZ3MipUAAAAJ&hl=en
+[LinkedIn]: https://www.linkedin.com/in/gajanan-kothawade-b94b8291/
+[ResearchGate]: https://www.researchgate.net/profile/Gajanan-Kothawade-2
+[orcid]: https://orcid.org/0000-0003-0006-2490](https://orcid.org/0000-0002-4639-6296
+[Mail]: mailto:gajanan.kothawade@wsu.edu
+
+</h3>
+
 
 - 👋 Hi, I’m @kothawadegs
 - 👀 I’m interested in writing/developing simple codes to contribute open source
