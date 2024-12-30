@@ -2,11 +2,11 @@
 Gajanan S. Kothawade
 </h1>
 <h2 align="center">
-PhD Candidate🎓  @ Washinton State University
+Researcher  @ TCF Freshwater Institute
 
 </h2>
 <h3 align="center">
-🌱 Remote Sensing & GIS 🌱 Plant Disease Biomarkers 🌱 Field Asymmetric Ion Mobility Spectrometry (FAIMS) 🌱 Gas Chromatography-Mass Spectrometry (GC-MS) 
+🌱 Precision Aquaculture 🌱 Deep Learning 🌱 Hyperspectral Imaging 🌱 Remote Sensing & GIS 🌱 Plant Disease Biomarkers 🌱 Field Asymmetric Ion Mobility Spectrometry (FAIMS) 🌱 Gas Chromatography-Mass Spectrometry (GC-MS) 
 </h3>
 
 ---
