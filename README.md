@@ -11,8 +11,8 @@ Researcher  @ TCF Freshwater Institute
 
 ---
 
-#### Post-doctoral researcher at The Conservation Fund Freshwater Insititute, West Virginia. 
-#### My research is on early disease detection in tree fruit crops 🌱 using destructive, partially destructive, and non-destructive volatile headspace sampling methods.
+#### Post-doctoral researcher at The Conservation Fund Freshwater Institute, West Virginia. 
+#### Research: early disease detection in tree fruit crops 🌱 using destructive, partially destructive, and non-destructive volatile headspace sampling methods
 
 #### Feel free to reach out: 
 
@@ -25,8 +25,9 @@ Researcher  @ TCF Freshwater Institute
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="50" title="ResearchGate" />][ResearchGate]&nbsp;
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="50" title="ORCID" />][orcid]&nbsp;
 
+
 [Google Scholar]: https://scholar.google.com/citations?user=GZ3MipUAAAAJ&hl=en
-[LinkedIn]: https://www.linkedin.com/in/gajanan-kothawade-b94b8291/
+[LinkedIn]: https://www.linkedin.com/in/gajanan-kothawade-ph-d-b94b8291/
 [ResearchGate]: https://www.researchgate.net/profile/Gajanan-Kothawade-2
 [orcid]: https://orcid.org/0000-0003-0006-2490](https://orcid.org/0000-0002-4639-6296
 [Mail]: mailto:gajanan.kothawade@wsu.edu
