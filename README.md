@@ -29,7 +29,7 @@ Researcher  @ TCF Freshwater Institute
 [Google Scholar]: https://scholar.google.com/citations?user=GZ3MipUAAAAJ&hl=en
 [LinkedIn]: https://www.linkedin.com/in/gajanan-kothawade-ph-d-b94b8291/
 [ResearchGate]: https://www.researchgate.net/profile/Gajanan-Kothawade-2
-[orcid]: [https://orcid.org/0000-0003-0006-2490](https://orcid.org/0000-0002-4639-6296](https://orcid.org/0000-0002-4639-6296)
+[orcid]: https://orcid.org/0000-0002-4639-6296
 [Mail]: mailto:gajanan.kothawade@wsu.edu
 
 </h3>
