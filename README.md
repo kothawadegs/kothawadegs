@@ -3,7 +3,6 @@ Gajanan S. Kothawade
 </h1>
 <h2 align="center">
 Researcher  @ TCF Freshwater Institute
-
 </h2>
 <h3 align="center">
 🌱 Precision Aquaculture 🌱 Deep Learning 🌱 Hyperspectral Imaging 🌱 Remote Sensing & GIS 🌱 Plant Disease Biomarkers 🌱 Field Asymmetric Ion Mobility Spectrometry (FAIMS) 🌱 Gas Chromatography-Mass Spectrometry (GC-MS) 
