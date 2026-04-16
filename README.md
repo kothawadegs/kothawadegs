@@ -5,7 +5,7 @@ Gajanan S. Kothawade
 Researcher  @ TCF Freshwater Institute
 </h2>
 <h3 align="center">
-🌱 Precision Aquaculture 🌱 Deep Learning 🌱 Hyperspectral Imaging 🌱 Remote Sensing & GIS 🌱 Plant Disease Biomarkers 🌱 Field Asymmetric Ion Mobility Spectrometry (FAIMS) 🌱 Gas Chromatography-Mass Spectrometry (GC-MS) 
+🌱 Precision Aquaculture 🌱 Hyperspectral Imaging 🌱 Deep Learning 🌱 Remote Sensing & GIS 🌱 Plant Disease Biomarkers 🌱 Field Asymmetric Ion Mobility Spectrometry (FAIMS) 🌱 Gas Chromatography-Mass Spectrometry (GC-MS) 🌱 E-Nose
 </h3>
 
 ---
@@ -35,8 +35,8 @@ Researcher  @ TCF Freshwater Institute
 
 
 - 👋 Hi, I’m @kothawadegs
-- 👀 I’m interested in writing/developing simple codes to contribute open source
-- 🌱 Currently learning Biological Systems Engineering
+- 👀 Let's write simple codes to contribute open source
+- 🌱 Precision Agriculture | Biological Systems Engineering
 - 💞️ Looking forward to collaborate on open source contribuition in Precision Agriculture
 - 📫 Reach out to me at kothawadegs[at]gmail.com
 - Find my publications at: https://scholar.google.com/citations?user=GZ3MipUAAAAJ&hl=en
