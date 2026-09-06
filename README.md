@@ -1,50 +1,45 @@
-<h1 align="center">Gajanan S. Kothawade, Ph.D.</h1>
-<h3 align="center">Postdoctoral Researcher @ The Conservation Fund Freshwater Institute</h3>
+# Hi, I'm Gajanan 👋
 
-<p align="center">
-🐟 Precision Aquaculture &nbsp;|&nbsp; 🛰️ Hyperspectral & Remote Sensing &nbsp;|&nbsp; 🤖 Deep Learning (YOLO/CNN) &nbsp;|&nbsp; 🌱 Plant Disease Biomarkers &nbsp;|&nbsp; 👃 FAIMS / GC-MS / E-Nose
-</p>
+I build computer vision, hyperspectral imaging, and sensing pipelines for precision agriculture and aquaculture.
 
-<p align="center">
-Frederick, MD, USA · Open to relocation
-</p>
+Most of my work centers on: computer vision benchmarking (YOLO architectures across edge and GPU hardware), hyperspectral ROI segmentation, volatile sensing (FAIMS, GC-MS, E-Nose), and large-scale geospatial analytics.
 
 ---
 
-### 👋 About Me
+### What I work on
 
-I'm a postdoctoral researcher at **The Conservation Fund Freshwater Institute (WV)**, working at the intersection of sensing technology and machine learning for agriculture and aquaculture. My PhD (Washington State University, 2024) focused on early disease detection in tree fruit crops using volatile-sensing technologies (FAIMS, GC-MS, e-nose).
+- **Computer Vision & Edge AI:** Benchmarking object detection models (YOLOv5u → YOLO26) on edge devices and high-throughput GPUs for automated fish welfare and mortality tracking.
+- **Spectral & Volatile Sensing:** Hyperspectral imaging pipelines for quality assessment (FilletCam 2.0) and custom Arduino-based E-Nose sensor arrays for real-time volatile detection.
+- **Geospatial & Remote Sensing:** Satellite data pipelines with Google Earth Engine and Sentinel-2 for water quality metrics, land-use classification, and evapotranspiration modeling.
+- **Hardware-Aware ML:** Quantization and optimized inference pipelines designed for resource-constrained edge deployments in harsh operational environments.
 
-Current work includes:
-- 🐠 Hyperspectral imaging pipelines for automated fish quality/ROI segmentation (FilletCam 2.0)
-- 📊 Benchmarking YOLO model variants (YOLOv5u → YOLO26) for fish mortality detection across edge and GPU hardware
-- 🌊 Google Earth Engine + Sentinel-2 pipelines for water-quality indicators in aquaculture ponds
-- 🔬 Arduino-based e-nose sensor arrays for real-time off-flavor volatile detection
+### About Me
 
-Previously, I worked on satellite-based land-use/land-cover classification, evapotranspiration modeling, and climate reanalysis at TCS Innovation Labs, KisanHub, Quantela, and IIRS-ISRO.
-
-### 🔧 Tools & Tech
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-### 📫 Connect
-
-<p align="center">
-<a href="mailto:gajanankothawade@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="45" title="Email"/></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=GZ3MipUAAAAJ&hl=en"><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="45" title="Google Scholar"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/gajanan-kothawade-ph-d-b94b8291/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="45" title="LinkedIn"/></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Gajanan-Kothawade-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="45" title="ResearchGate"/></a>&nbsp;
-<a href="https://orcid.org/0000-0002-4639-6296"><img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="45" title="ORCID"/></a>
-</p>
+- 🔬 **Postdoctoral Researcher** at **The Conservation Fund Freshwater Institute**, applying deep learning and advanced sensing to recirculating aquaculture systems.
+- 🎓 **Ph.D. from Washington State University (2024)**, specialized in volatile-sensing technologies (FAIMS, GC-MS, E-Nose) for early plant disease detection.
+- 🛰️ **Previously built remote sensing & climate modeling pipelines** at TCS Innovation Labs, KisanHub, Quantela, and IIRS-ISRO.
+- 🚀 **Open to relocation** | Looking to collaborate on applied computer vision, hyperspectral imaging, edge AI, and sensor integration.
 
 ---
 
-<!--
-kothawadegs/kothawadegs is a special repository — its README.md appears on your GitHub profile.
--->
+### Tools & Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white" alt="GEE" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+</p>
+
+### Connect with Me
+
+<p align="left">
+  <a href="mailto:gajanankothawade@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gajanan-kothawade-ph-d-b94b8291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=GZ3MipUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.researchgate.net/profile/Gajanan-Kothawade-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://orcid.org/0000-0002-4639-6296"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+</p>
